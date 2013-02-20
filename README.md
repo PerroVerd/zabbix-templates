@@ -12,6 +12,9 @@ http://pingtool.org/zabbix-2-snmpv3-device-template/
 debian apt
 http://dev.aperto.fr/projects/zabbixextensions
 
+Squid
+https://www.zabbix.com/wiki/howto/monitor/web/squid
+
 Others (memcached, bind, php, ngnix...)
 https://bitbucket.org/rvs/ztc
 https://github.com/untergeek/zabbix-grab-bag
